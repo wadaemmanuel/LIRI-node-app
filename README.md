@@ -8,6 +8,10 @@ FS (filesystem)
 
 **instructions**
 
+clone and run npm install.
+
+set up keys for the above APIs.
+
 Start by querying in the command line by typing node liri.js. 
 This will let node to run the liri.js file, then type in the command 
 *spotify-this-song* followed by the title of the song. Reapeat for all the other commands
