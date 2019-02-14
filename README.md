@@ -11,7 +11,7 @@ FS (filesystem)
 Type in the below in the the command line:
 
 *search concert*
-    node liri.js concert-this <artist/band name here>
+        node liri.js concert-this <artist/band name here>
 
 
 
