@@ -1,2 +1,6 @@
 # LIRI-node-app
-**install**
+**install & require**
+axios 
+spottify API 
+moment.js
+
