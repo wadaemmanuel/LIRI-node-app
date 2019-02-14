@@ -2,7 +2,7 @@
 **install & require**
 
 axios, 
-spottify API,
+spotify API,
 moment.js,
 FS (filesystem)
 
