@@ -8,6 +8,10 @@ FS (filesystem)
 
 **instructions**
 
+Start by querying in the command line by typing node liri.js. 
+This will let node to run the liri.js file, then type in the command 
+*spotify-this-song* followed by the title of the song. Reapeat for all the other commands
+as well. For *do-what-it-says* type "node liri.js and then do-what-it-says". 
 Type in the below in the the command line:
 
    **search for concerts**
