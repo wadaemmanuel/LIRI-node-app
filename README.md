@@ -19,8 +19,6 @@ as well. For *do-what-it-says* type "node liri.js and then do-what-it-says".
 Type in the below in the the command line:
 
    **search for concerts**
-   
-   ![concert-this](images/LIRI-node-app - concert this.png)
 
         node liri.js concert-this <artist/band name here>
 
