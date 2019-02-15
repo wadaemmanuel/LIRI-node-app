@@ -20,22 +20,26 @@ Type in the below in the the command line:
 
    **search for concerts**
    
-   Inline-style: 
-![alt text](/images/concert this.png "CT")
-
+  Inline-style:![alt text](/images/concert this.png "CT")
 
         node liri.js concert-this <artist/band name here>
 
    **search spotify by song**
+   
+  Inline-style:![alt text](/images/spotify this.png "ST")
 
         node liri.js spotify-this-song '<song name here>'
 
 
    **search for movies**
+   
+  Inline-style:![alt text](/images/movie this.png "MT")
 
         node liri.js movie-this '<movie name here>'
 
   **search for a random topic**
+  
+  Inline-style: ![alt text](/images/do this.png "RT")
 
         node liri.js do-what-it-says
 
