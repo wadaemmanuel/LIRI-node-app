@@ -6,7 +6,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-Start by querying in the command line by typing node liri.js. This will run the liri.js file, then type in the command spotify-this-song followed by the title of the song. Reapeat for all the other commands as well. For do-what-it-says type "node liri.js and then do-what-it-says". Type in the below in the the command line:
+Start by querying in the command line by typing node liri.js. This will run the liri.js file, then type in the command spotify-this-song followed by the title of the song. Reapeat for all the other commands as well. For do-what-it-says type "node liri.js and then do-what-it-says". Type below in the the command line:
 
 ### Prerequisites
 
