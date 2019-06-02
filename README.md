@@ -27,12 +27,16 @@ npm install spotify API
 ```
 npm install moment.js
 ```
+```
+npm install file-system
+```
 ## Built With
 
 * [axios](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js
 * [Spotify API](https://www.npmjs.com/package/node-spotify-api) - API library for the Spotify REST API
 * [moment](https://www.npmjs.com/package/moment) - date formating 
 * [Dotenv](https://www.npmjs.com/package/dotenv) - module that loads environment variables from a .env file
+* [file-system](https://www.npmjs.com/package/file-system) - file managment 
 
 
 
