@@ -8,7 +8,7 @@ Start by querying in the command line by typing node liri.js. This will run the 
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to install the software.
 
 ```
 axios, spotify API, moment.js, FS (filesystem)
